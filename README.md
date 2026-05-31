@@ -1,7 +1,7 @@
 # LU Decomposition 
 ~~~
-Name: Branzen B V
-Register No: 212225100005
+Name: Ritesh DP
+Register No: 212225040339
 ~~~
 
 ## AIM:
